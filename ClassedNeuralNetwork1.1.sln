@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ClassedNeuralNetwork1.1", "ClassedNeuralNetwork1.1\ClassedNeuralNetwork1.1.vcxproj", "{29D6EE4A-BB4A-4283-8B12-5D69CD5099D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29D6EE4A-BB4A-4283-8B12-5D69CD5099D7}.Debug|x64.ActiveCfg = Debug|x64
+		{29D6EE4A-BB4A-4283-8B12-5D69CD5099D7}.Debug|x64.Build.0 = Debug|x64
+		{29D6EE4A-BB4A-4283-8B12-5D69CD5099D7}.Debug|x86.ActiveCfg = Debug|Win32
+		{29D6EE4A-BB4A-4283-8B12-5D69CD5099D7}.Debug|x86.Build.0 = Debug|Win32
+		{29D6EE4A-BB4A-4283-8B12-5D69CD5099D7}.Release|x64.ActiveCfg = Release|x64
+		{29D6EE4A-BB4A-4283-8B12-5D69CD5099D7}.Release|x64.Build.0 = Release|x64
+		{29D6EE4A-BB4A-4283-8B12-5D69CD5099D7}.Release|x86.ActiveCfg = Release|Win32
+		{29D6EE4A-BB4A-4283-8B12-5D69CD5099D7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDC41457-8A59-479F-9A5D-8692C132F28F}
+	EndGlobalSection
+EndGlobal
